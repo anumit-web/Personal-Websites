@@ -1,11 +1,14 @@
 Hugo
 
+# Azure servers (Microsoft)
+
 https://portal.azure.com/
 
 anumit@hotmail.com
 
+--- 
 
-# Quick start
+# Hugo Quick start
 https://gohugo.io/getting-started/quick-start/
 
 hugo new site quickstart
