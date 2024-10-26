@@ -83,9 +83,13 @@ open cloudflare dashboard
 
 https://dash.cloudflare.com
 
+Go to section titled "Workers and Pages"
 
+upload the foo.zip file
 
+Open your website at - 
 
+https://test-4be.pages.dev
 
 
 
