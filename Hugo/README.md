@@ -56,13 +56,18 @@ alias ll="ls -alF"
 ## build files in public folder 
 hugo
 
-## zipmfiles in public folder 
+## zip in public folder 
 zip -r foo.zip .
 
 /home/firstuser/mycode/websites/hugo/website1/quickstart/public
 
 cd /home/firstuser/mycode/websites/hugo/website1/quickstart/public
 
+## upload the zip file to public ftp server
+
+cd /home/firstuser/mycode/websites/hugo/website1/quickstart/public
+
+curl -T foo.zip ftp://ftp.dlptest.com --user dlpuser:rNrKYTX9g7z3RgJRmxWuGHbeu
 
 
 
