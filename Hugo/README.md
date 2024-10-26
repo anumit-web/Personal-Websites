@@ -1,5 +1,9 @@
 Hugo
 
+https://portal.azure.com/
+
+anumit@hotmail.com
+
 
 # Quick start
 https://gohugo.io/getting-started/quick-start/
