@@ -28,10 +28,15 @@ echo "theme = 'adritian-free-hugo-theme'" >> hugo.toml
 ---
 
 hugo new site quickstart
+
 cd quickstart
+
 git init
+
 git submodule https://github.com/zetxek/adritian-free-hugo-theme.git themes/adritian-free-hugo-theme
+
 echo "theme = 'adritian-free-hugo-theme'" >> hugo.toml
+
 hugo server
 
 
