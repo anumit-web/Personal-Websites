@@ -19,7 +19,7 @@ Password1!Password2!
 Networking - Add ports rule to allow all incoming and ourgoing traffic
 
 
-## Text editor
+## Linux Terminal Text editor
 
 nano
 
