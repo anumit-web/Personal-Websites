@@ -69,12 +69,13 @@ cd /home/firstuser/mycode/websites/hugo/website1/quickstart/public
 
 curl -T foo.zip ftp://ftp.dlptest.com --user dlpuser:rNrKYTX9g7z3RgJRmxWuGHbeu
 
+## download files from the same public ftp server to local drive
 
+use iPad software called ftp lite
 
-
-
-
-
+FTP URL: ftp.dlptest.com or ftp://ftp.dlptest.com/
+FTP User: dlpuser
+Password: rNrKYTX9g7z3RgJRmxWuGHbeu
 
 
 
