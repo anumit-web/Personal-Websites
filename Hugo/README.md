@@ -53,8 +53,15 @@ Alias
 alias ll="ls -alF"
 
 
+## build files in public folder 
+hugo
 
+## zipmfiles in public folder 
+zip -r foo.zip .
 
+/home/firstuser/mycode/websites/hugo/website1/quickstart/public
+
+cd /home/firstuser/mycode/websites/hugo/website1/quickstart/public
 
 
 
