@@ -23,6 +23,18 @@ git submodule add https://github.com/zetxek/adrianmoreno.info.git theme/adritian
 
 adritian-free-hugo-theme
 
+echo "theme = 'adritian-free-hugo-theme'" >> hugo.toml
+
+---
+
+hugo new site quickstart
+cd quickstart
+git init
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+echo "theme = 'ananke'" >> hugo.toml
+hugo server
+
+
 
 
 
