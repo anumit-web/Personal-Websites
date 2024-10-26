@@ -40,6 +40,20 @@ hugo server --bind 0.0.0.0
 
 http://20.78.10.127:1313
 
+---
+
+# Hugo - Coding 
+
+/home/firstuser/mycode/websites/hugo/website1
+
+cd /home/firstuser/mycode/websites/hugo/website1
+
+
+
+
+
+
+
 
 
 
