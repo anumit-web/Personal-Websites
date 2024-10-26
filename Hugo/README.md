@@ -6,6 +6,14 @@ https://portal.azure.com/
 
 anumit@hotmail.com
 
+SSH login imformation -
+
+20.78.10.127
+
+firstuser
+
+Password1!Password2!
+
 --- 
 
 # Hugo Quick start
