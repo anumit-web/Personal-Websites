@@ -78,7 +78,10 @@ FTP User: dlpuser
 Password: rNrKYTX9g7z3RgJRmxWuGHbeu
 
 
+## upload files to cloudflare pages
+open cloudflare dashboard
 
+https://dash.cloudflare.com
 
 
 
