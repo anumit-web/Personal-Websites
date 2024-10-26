@@ -48,6 +48,12 @@ http://20.78.10.127:1313
 
 cd /home/firstuser/mycode/websites/hugo/website1
 
+Alias
+
+alias ll="ls -alF"
+
+
+
 
 
 
