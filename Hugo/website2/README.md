@@ -19,3 +19,12 @@ echo "theme = 'Adritian'" >> hugo.toml
 
 hugo server
 
+git submodule add https://github.com/zetxek/adrianmoreno.info.git theme/adritian-free-hugo-theme
+
+adritian-free-hugo-theme
+
+
+
+
+
+
