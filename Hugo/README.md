@@ -86,6 +86,10 @@ zip -r foo.zip .
 
 cd /home/firstuser/mycode/websites/hugo/website1/quickstart/public
 
+## Downlaod zip files using FTPManager
+
+cd /home/firstuser/mycode/websites/hugo/website1/
+
 ## upload the zip file to public ftp server
 
 cd /home/firstuser/mycode/websites/hugo/website1/quickstart/public
