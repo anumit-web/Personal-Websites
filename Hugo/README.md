@@ -130,7 +130,7 @@ https://test-4be.pages.dev
 
 upload to google drive and get shareable link
 
-get fioe identifier from the url 
+get file identifier from the url 
 
 Inside Azure VM
 use the following shell script to downlaon the large zip file - 
