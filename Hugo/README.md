@@ -97,7 +97,9 @@ curl -T foo.zip ftp://ftp.dlptest.com --user dlpuser:rNrKYTX9g7z3RgJRmxWuGHbeu
 use iPad software called ftp lite
 
 FTP URL: ftp.dlptest.com or ftp://ftp.dlptest.com/
+
 FTP User: dlpuser
+
 Password: rNrKYTX9g7z3RgJRmxWuGHbeu
 
 
