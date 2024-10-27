@@ -128,7 +128,12 @@ https://test-4be.pages.dev
 ## 1. upload to google drive
 ## 2. ftp the file from google drive to Azure VM
 
-use the following shell script to downlaon the latge zip file - 
+upload to google drive and get shareable link
+
+get fioe identifier from the url 
+
+Inside Azure VM
+use the following shell script to downlaon the large zip file - 
 #!/bin/bash
 fileid="FILEIDENTIFIER"
 filename="FILENAME"
