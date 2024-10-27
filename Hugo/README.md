@@ -123,6 +123,14 @@ https://test-4be.pages.dev
 ---
 ---
 ---
+# Upload large files from local to Azure VM
+
+## 1. upload to google drive
+## 2. ftp the file from google drive to Azure VM
+
+---
+---
+---
 
 # Responsive Website Test
 
