@@ -128,6 +128,13 @@ https://test-4be.pages.dev
 ## 1. upload to google drive
 ## 2. ftp the file from google drive to Azure VM
 
+use the following shell script to downlaon the latge zip file - 
+#!/bin/bash
+fileid="FILEIDENTIFIER"
+filename="FILENAME"
+curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
+curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
 ---
 ---
 ---
