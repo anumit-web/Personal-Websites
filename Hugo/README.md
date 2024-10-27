@@ -2,6 +2,8 @@
 # Static website development
 
 ---
+---
+---
 
 # Azure servers (Microsoft)
 
@@ -38,6 +40,7 @@ sudo apt install npm
 
 
 --- 
+---
 ---
 
 # Hugo Quick start
@@ -112,6 +115,9 @@ Open your website at -
 https://test-4be.pages.dev
 
 ---
+---
+---
+
 # Responsive Website Test
 
 https://usepastel.com/responsive-website-test
