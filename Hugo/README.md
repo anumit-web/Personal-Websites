@@ -24,7 +24,21 @@ Networking - Add ports rule to allow all incoming and ourgoing traffic
 
 nano
 
+## Install Node.js
+
+sudo apt update
+
+sudo apt install nodejs
+
+node -v
+
+## Install NPM: npm (Node Package Manager)
+
+sudo apt install npm
+
+
 --- 
+---
 
 # Hugo Quick start
 https://gohugo.io/getting-started/quick-start/
